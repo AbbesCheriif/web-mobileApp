@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911169073210",
+    "project_id": "nephropancartes",
+    "storage_bucket": "nephropancartes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911169073210:android:df5e0c0c58fcfe6f7bc503",
+        "android_client_info": {
+          "package_name": "com.example.nephro_pancartes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipxxIFHx76spgo9Un2qgMtvJpy2egHFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
